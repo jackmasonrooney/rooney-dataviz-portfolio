@@ -34,7 +34,7 @@ Hi! I'm Jack Rooney (he/him/his) and I am part of the MEIM program at CMU. I am 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment: [Critique by redesign](critique-by-design)
 ## Final project
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
