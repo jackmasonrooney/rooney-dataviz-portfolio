@@ -15,44 +15,48 @@ My focus for the redesign will be simplification. The data here is good informat
 
 ## Step three: Sketch a solution
 I decided to use a map to visualize this data. I chose a sliding color scale to represent the index values with red being a lower index and blue being higher. I did this because a lower index score means less animal rights and a higher score means more animal rights. 
+
+![sketch image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/main/Animal%20Rights%20Sketch.png?raw=true) 
+
+This is just an image file, but when this was live, you could hover over a country and the name and index score would appear.
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+Questions to ask: 
+1) What do you think this is?
+2) What do the red and blue mean?
+3) Is this too little information?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3 | 
+|----------|-------------|-------------|-------------|
+|     1     |     A measure of how many animal rights a country has.        |  How many rights a country gives animals.  But, I think you should add a small descrition of what the index means exactly.        |     How good a country is at animal rights.        |
+|      2    |      What Interview 2 said       |    Blue means a country has a lot of animal rights and red means the opposite.         |       Agreed.      |
+|      3    |       No.      |   No.          |      I would like to see the country name and score more clearly (Interview 3 spoke last, 1 and 2 agreed after they said this)       |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+I did a good initial job at simplifying the visualization, which was my main goal. I will implement what interview 2 said in question 1 and what interview 3 said in question 3 because both of these suggestions will improve clarity of what the visualization is showing. 
 
 ## Step five: build the solution
+<div class='tableauPlaceholder' id='viz1743631704441' style='position: relative'><noscript><a href='#'><img alt='Animal Rights IndexThe index was calculated by combining nine different factors related to animal rights. A higher index score corresponds to better animal rights.Source: https:&#47;&#47;theswiftest.com&#47;animal-rights-index&#47;#:~:text=Animal%20rights%20laws%20vary ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;Animalrights&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Animalrights&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;Animalrights&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1743631704441');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                   
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I implemented the feedback I got and it resulted in a much cleaner visualization. I think this accomplished the goal of making a much more readable visualization of the data. A lot of my process came down to figuring out what I could simplify before sketching out a solution. I was also still able to tell the same story with this data, but it is way more readable.
 
 ## References
-_List any references you used here._
+[Source](https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can) 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+None.
 
