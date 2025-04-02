@@ -1,21 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Animal Rights Index
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+## Step one: [the visualization](https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can) 
+I chose this visualization because it is about an interesting topic, but it is hard to understand the information in it. I saw this and knew that there was a better and simpler way to convey the story of this dataset. This is what I intend to do with my redesign.
 
-## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+The visualization has a good story, but it overcomplicates it which makes it hard to read. The best part is the overall index score because it clearly represents if a country is good or bad for animal rights. Additionally, I like the corresponding grades to the index score. It makes it easy to compare two countries. I can better visualize the difference between an "A" and a "B+" more than I can the difference between a score of 519 and a score of 463. That's about where my compliments end. The rest of the table is messy, mostly due to the fact that 5 of the 9 factors that affect the index have their own custom icons. Each icon has 3 different variations to represent "full", "partial", and "none". To make matters worse, the key is at the top of the page, so I have to constantly scroll up and down to learn information about any country that is more than 10 or so down the list.
+
+My focus for the redesign will be simplification. The data here is good information, but no one will look at it long enough to get the story. I will want to focus solely on the index score because that is where the message lies. I will try out a map to visualize it clearly. 
 
 ## Step three: Sketch a solution
-
+I decided to use a map to visualize this data. I chose a sliding color scale to represent the index values with red being a lower index and blue being higher. I did this because a lower index score means less animal rights and a higher score means more animal rights. 
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
