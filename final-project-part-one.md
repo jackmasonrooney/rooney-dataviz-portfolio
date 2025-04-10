@@ -13,30 +13,13 @@ After this, in 2021, we see campaigns by the studios to get people back to theat
 Then, in 2023, we see the first really successful push to get people back to theaters with Barbenhiemer. Since then, we have seen studios try to duplicate the success of Barbenheimer with their own social media campaigns. This have had varying levels of success, but the box office numbers may show that this is the way to drive attendance and box office revenue. 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![sketch image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/main/sketch%201.jpg)
+![sketch2 image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/6b5034a87ff7bbf61767b2a57d16396bea70149e/sketch%202.jpg) 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+This is a database of the box office numbers. I will mainly be looking at the domestic office breakdown by year, but will also be pulling data from specific movies’ performances. I intend to map the yearly trends over the various attempts that studios have done to drive theater attendance post-Covid. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+https://www.boxofficemojo.com/year/?ref_=bo_nb_yl_secondarytab
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I will use Tableau to create some visualizations and I will use Shorthand to present my story. 
