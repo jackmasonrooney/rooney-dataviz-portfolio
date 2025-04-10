@@ -13,8 +13,8 @@ After this, in 2021, we see campaigns by the studios to get people back to theat
 Then, in 2023, we see the first really successful push to get people back to theaters with Barbenhiemer. Since then, we have seen studios try to duplicate the success of Barbenheimer with their own social media campaigns. This have had varying levels of success, but the box office numbers may show that this is the way to drive attendance and box office revenue. 
 
 ## Initial sketches
-![sketch image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/main/sketch%201.jpg)
-![sketch2 image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/6b5034a87ff7bbf61767b2a57d16396bea70149e/sketch%202.jpg) 
+![sketch image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/main/sketch%201.jpg?raw=true)
+![sketch2 image](https://github.com/jackmasonrooney/rooney-dataviz-portfolio/blob/6b5034a87ff7bbf61767b2a57d16396bea70149e/sketch%202.jpg?raw=true) 
 
 # The data
 This is a database of the box office numbers. I will mainly be looking at the domestic office breakdown by year, but will also be pulling data from specific movies’ performances. I intend to map the yearly trends over the various attempts that studios have done to drive theater attendance post-Covid. 
