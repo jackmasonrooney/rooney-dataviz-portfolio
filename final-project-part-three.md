@@ -1,36 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+[The Final Data Story](https://preview.shorthand.com/BbKRW0FtkwDIcGTp)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+The biggest thing I changed was that I added more visualizations. Before, I was just going to state the box office performances of the movies that I was mentioning. However, this was more engaging and clean. I chose bubble charts for these visualizations because I think it does a good job of clearly illustrating how much of the box office that these films account for. I decided to only show the top 100 or 200 movies for these years because it looked cleaner and still accounted for more than 99% of the total revenue. 
 
-Text here!
+The other thing I changed was that I made the story more clear. It is really about what works in terms of getting people to go to movies. I want my takeaway to be a new way to look at how to market films. The last thing I changed is that I replaced the images with ones that I was free to use via Unsplash. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+I think my interviews showed me that I was being too broad with my audience. For the final part, I decided that my audience was studio executives and people that work in film marketing. I wanted to show them that there are more subtle ways to use social media that may actually produce better results than a traditional campaign. 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+My source was [Box Office Mojo](https://www.boxofficemojo.com/year/2023/?ref_=bo_yl_table_3)
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+None
 
-Text here!
+
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Overall, I am happy with it. If I had more time, I would maybe look into how to do this type of marketing for movies with a more serious tone, since both A Minecraft Movie and Barbie are lighter. Oppenheimer is heavy, but that was the point of it being paired with Barbie. 
 
 
